@@ -4,12 +4,7 @@ UT Coding Bootcamp Challenge 19: Progressive Web App (PWA) Text Editor
 
 ## Description
 
-> Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:  
->   
-> - What was your motivation?  
-> - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")  
-> - What problem does it solve?  
-> - What did you learn?  
+> Your task is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
 ## Table of Contents
 
@@ -24,8 +19,9 @@ https://c19-pwa-text-editor.herokuapp.com/
 
 ## Usage
 
-
-
+![Landing-page](./client/src/images/landing.png)
+![Usage](./client/src/images/usage.png)
+![Indexeddb](./client/src/images/indexeddb.png)
 
 ## Credits
 
